@@ -1,2 +1,2 @@
-# MonthlySpending
-total transaction, transaction categorization
+# FoodInfoAI
+Showing food info with food recognition AI
